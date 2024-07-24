@@ -14,14 +14,16 @@ This project addresses the need to enhance efficiency and productivity in greenh
 ## System Design
 
 ### Functional Block Diagram
-![Functional Block Diagram](https://github.com/VINAYAK-JAINAPUR/Green-House-Monitoring-System/blob/main/flow.jpg)
-
-The Functional Block Diagram illustrates the overall design and operational flow of the system, showing the interaction between sensors, actuators, and the NodeMCU ESP8266.
+<div align="center">
+  <img src="https://github.com/VINAYAK-JAINAPUR/Green-House-Monitoring-System/blob/main/flow.jpg" alt="Functional Block Diagram">
+  <p>The Functional Block Diagram illustrates the overall design and operational flow of the system, showing the interaction between sensors, actuators, and the NodeMCU ESP8266.</p>
+</div>
 
 ### System Architecture
-![System Architecture](https://github.com/VINAYAK-JAINAPUR/Green-House-Monitoring-System/blob/main/architecture.jpeg)
-
-The System Architecture diagram details the high-level organization and integration of system components, including hardware and software elements.
+<div align="center">
+  <img src="https://github.com/VINAYAK-JAINAPUR/Green-House-Monitoring-System/blob/main/architecture.jpeg" alt="System Architecture">
+  <p>The System Architecture diagram details the high-level organization and integration of system components, including hardware and software elements.</p>
+</div>
 
 ## Hardware Used
 - ESP8266 Module
@@ -33,18 +35,19 @@ The System Architecture diagram details the high-level organization and integrat
 - Cooling Fan
 
 ### Hardware Setup
-![Hardware Setup](https://github.com/VINAYAK-JAINAPUR/Green-House-Monitoring-System/blob/main/hardware.jpeg)
-
-The Hardware Setup image displays the assembled components and their connections, providing a visual representation of the system’s physical configuration.
+<div align="center">
+  <img src="https://github.com/VINAYAK-JAINAPUR/Green-House-Monitoring-System/blob/main/hardware.jpeg" alt="Hardware Setup">
+  <p>The Hardware Setup image displays the assembled components and their connections, providing a visual representation of the system’s physical configuration.</p>
+</div>
 
 ## Results
-![Results](https://github.com/VINAYAK-JAINAPUR/Green-House-Monitoring-System/blob/main/Blynk_output.jpeg)
-
-The Results image shows the final model of the greenhouse monitoring system, including its operational state and performance outcomes.
+<div align="center">
+  <img src="https://github.com/VINAYAK-JAINAPUR/Green-House-Monitoring-System/blob/main/Blynk_output.jpeg" alt="Results">
+  <p>The Results image shows the final model of the greenhouse monitoring system, including its operational state and performance outcomes.</p>
+</div>
 
 ## Blynk App Interface
 The Blynk App Interface section displays the user interface of the Blynk app, which is used for remote monitoring and control of the system.
 
 ## Conclusion
 The Greenhouse Monitoring System effectively provides real-time monitoring and management of environmental conditions, enhancing crop yield and resource efficiency. The integration of IoT technology enables precise, automated control, reducing the need for manual intervention and significantly improving overall operational efficiency.
-
