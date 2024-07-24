@@ -14,11 +14,11 @@ This project addresses the need to enhance efficiency and productivity in greenh
 ## System Design
 
 ### Functional Block Diagram
-![Functional Block Diagram](path/to/functional_block_diagram.jpg)
+![Functional Block Diagram](https://github.com/VINAYAK-JAINAPUR/Green-House-Monitoring-System/blob/main/flow.jpg)
 The Functional Block Diagram illustrates the overall design and operational flow of the system, showing the interaction between sensors, actuators, and the NodeMCU ESP8266.
 
 ### System Architecture
-![System Architecture](path/to/system_architecture.jpg)
+![System Architecture](https://github.com/VINAYAK-JAINAPUR/Green-House-Monitoring-System/blob/main/architecture.jpeg)
 The System Architecture diagram details the high-level organization and integration of system components, including hardware and software elements.
 
 ## Hardware Used
@@ -31,11 +31,11 @@ The System Architecture diagram details the high-level organization and integrat
 - Cooling Fan
 
 ### Hardware Setup
-![Hardware Setup](path/to/hardware_setup.jpg)
+![Hardware Setup](https://github.com/VINAYAK-JAINAPUR/Green-House-Monitoring-System/blob/main/hardware.jpeg)
 The Hardware Setup image displays the assembled components and their connections, providing a visual representation of the system’s physical configuration.
 
 ## Results
-![Results](path/to/results.jpg)
+![Results](https://github.com/VINAYAK-JAINAPUR/Green-House-Monitoring-System/blob/main/Blynk_output.jpeg)
 The Results image shows the final model of the greenhouse monitoring system, including its operational state and performance outcomes.
 
 ## Blynk App Interface
